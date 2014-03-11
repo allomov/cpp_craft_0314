@@ -20,14 +20,179 @@ c00000000527167D800000000000001DB
 t1383163864
 s475
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000527167E9000000000000681C
+t1383163881
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000527167E9000000000006E8B0
+t1383163881
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000527167E90000000000004734
+t1383163881
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000527167E9000000000000FC6C
+t1383163881
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000527167E9000000000000F6A0
+t1383163881
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000527167E90000000000006254
+t1383163881
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000527167E9000000000000E0F8
+t1383163881
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000527167E9000000000000D6DC
+t1383163881
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000527167E90000000000006308
+t1383163881
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000527167E90000000000004050
+t1383163881
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000527167E90000000000008570
+t1383163881
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000527167E90000000000005EA0
+t1383163881
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000527167E90000000000005FAC
+t1383163881
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000527167E90000000000004440
+t1383163881
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000527167E9000000000000AA28
+t1383163881
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000527167E90000000000003E2C
+t1383163881
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000527167E90000000000030A24
+t1383163881
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000527167E90000000000005E54
+t1383163881
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000527167E90000000000006A90
+t1383163881
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000527167E900000000000178AC
+t1383163881
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000527167E9000000000001ADC8
+t1383163881
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000527167E9000000000001028C
+t1383163881
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000527167E90000000000008800
+t1383163881
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000527167E90000000000011090
+t1383163881
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000527167E9000000000000882C
+t1383163881
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000527167E900000000000067AC
+t1383163881
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000527167E90000000000008DEC
+t1383163881
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000527167E90000000000004C08
+t1383163881
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000527167E900000000000023C0
+t1383163881
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000527167E9000000000000439C
+t1383163881
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000527167E90000000000006768
+t1383163881
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000527167E900000000000172F4
+t1383163881
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005271682A0000000000001750
+t1383163946
+s5968
+
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp
-c00000000531EB62A000000000000013E
-t1394521642
-s318
+c00000000531ECE050000000000000432
+t1394527749
+s1074
 
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_1
-t2
-s0
+t1394526931
+s71112
 
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/1_1.LinkFileList
 c00000000531EB7020000000000000087
@@ -35,19 +200,19 @@ t1394521858
 s135
 
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o
-t1394521859
-s155028
+t1394527756
+s188280
 
 CBuild AST from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfef1a682eeceb841^3ecbb382eeceb841^---0#1#1#--18"Check dependencies36"6D6F23B3-F8E8-4692-B66E-E564BAF493FB-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3882c48b05cfb841^f019c58b05cfb841^---0#1#1#--18"Check dependencies36"0AC61D79-53DD-4228-860D-72881E288419-
 
 CCompileC xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s416214658.705906
-e416214659.440165
+s416220555.768885
+e416220556.206439
 r1
 xCompileC
 xxcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o
@@ -57,12 +222,12 @@ xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp171"CompileC xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o sources/1_1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4fe9b482eeceb841^ec517483eeceb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp0000000000000000^2698"CompileC xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o sources/1_1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_LINUX -D_XOPEN_SOURCE=600 -DBOOST_FILESYSTEM_VERSION=2 -D_SCL_SECURE_NO_WARNINGS -DSOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\" -DBINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/DerivedSources/x86_64 -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -pthread -O0 -g -Wall -MMD -MT dependencies -MF /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.dia -c /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp -o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o36"A451FDF6-D1D6-4304-90A9-43DCF68FC170-
-bCA031823-DA18-4799-A6EB-4D3BF2BDBE3C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp171"CompileC xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o sources/1_1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilere0f2c48b05cfb841^a5d9348c05cfb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp0000000000000000^2698"CompileC xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o sources/1_1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_LINUX -D_XOPEN_SOURCE=600 -DBOOST_FILESYSTEM_VERSION=2 -D_SCL_SECURE_NO_WARNINGS -DSOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\" -DBINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/DerivedSources/x86_64 -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -pthread -O0 -g -Wall -MMD -MT dependencies -MF /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.dia -c /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp -o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/main.o36"69F21793-5FA2-430B-A983-A1B7D14FA8E0-
+bED92D72C-77D0-4168-B617-A25BC173A83F
 
 CLd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_1 normal x86_64
-s416214659.440882
-e416214659.567906
+s416220556.207756
+e416220556.228308
 r1
 xLd
 x/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_1
@@ -103,6 +268,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Link /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_150"Ld xcode_proj/bin_32/Debug/Debug/1_1 normal x86_64ddef7083eeceb841^5af19183eeceb841^---0#0#1#--1066"Ld xcode_proj/bin_32/Debug/Debug/1_1 normal x86_64    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -F/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -filelist /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/1_1.LinkFileList -mmacosx-version-min=10.9 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/1_1_dependency_info.dat -o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_136"7406D596-56D7-4296-9E23-41C2D055A00D-
-bCA031823-DA18-4799-A6EB-4D3BF2BDBE3C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Link /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_150"Ld xcode_proj/bin_32/Debug/Debug/1_1 normal x86_64813e358c05cfb841^71733a8c05cfb841^---0#0#1#--1066"Ld xcode_proj/bin_32/Debug/Debug/1_1 normal x86_64    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -F/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -filelist /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/1_1.LinkFileList -mmacosx-version-min=10.9 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Xlinker -dependency_info -Xlinker /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/task1.build/Debug/1_1.build/Objects-normal/x86_64/1_1_dependency_info.dat -o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_136"E2A91A9E-8009-4478-B53C-D4A14F50598E-
+bED92D72C-77D0-4168-B617-A25BC173A83F
 
