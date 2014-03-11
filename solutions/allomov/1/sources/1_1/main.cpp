@@ -13,8 +13,7 @@ std::string canonicalForm(std::string s) {
   return s;
 }
 
-int main(int argc, char* argv[])
-{
+int main(int argc, char* argv[]) {
   std::ifstream input_file(SOURCE_DIR "/input.txt");
   std::ofstream output_file(SOURCE_DIR "/output.txt");
   std::string first_line;
@@ -25,18 +24,16 @@ int main(int argc, char* argv[])
   std::getline(input_file, first_line);
   first_line_canonical = canonicalForm(first_line);
 
-  while(!input_file.eof())
-  {
+  while(!input_file.eof()) {
     std::getline(input_file, line);
 
     line_canonical = canonicalForm(line);
     
     std::size_t pos = first_line_canonical.find(line_canonical);
-    if (pos!=std::string::npos)
+    if (pos != std::string::npos)
       output_file << "YES" << std::endl;
     else
       output_file << "NO" << std::endl;
-
   }
 
   input_file.close();

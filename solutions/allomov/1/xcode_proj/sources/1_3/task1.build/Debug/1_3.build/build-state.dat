@@ -208,7 +208,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6d72c48b05cfb841^ef1dc58b05cfb841^---0#1#1#--18"Check dependencies36"4D20E54C-7862-4EB1-82AA-EBE9D4D129E0-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3aae9ed50dcfb841^2b509fd50dcfb841^---0#1#1#--18"Check dependencies36"BB0F9D24-D825-4DAF-A915-0A85F97591A9-
 
 CCompileC xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s416214658.705907
