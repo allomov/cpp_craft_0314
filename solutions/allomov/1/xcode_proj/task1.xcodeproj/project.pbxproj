@@ -1,668 +1,719 @@
 // !$*UTF8*$!
 {
-       archiveVersion = 1;
-       classes = {
-       };
-       objectVersion = 46;
-       objects = {
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
 
 /* Begin PBXAggregateTarget section */
-              F4744E785DBF4556B5181899 /* ALL_BUILD */ = {
-                     isa = PBXAggregateTarget;
-                     buildConfigurationList = 88074CA8EC6A47D2997AF2CC /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
-                     buildPhases = (
-                            1F6F5EE90C94491ABC712326 /* CMake Rules */,
-                     );
-                     dependencies = (
-                            965AF632312F42E8A0F331D5 /* PBXTargetDependency */,
-                            2ED98D571D23473584FD3474 /* PBXTargetDependency */,
-                            C40413FDEA1A43DEBACEB9F2 /* PBXTargetDependency */,
-                            5ACDE770E1AB4EF2AEBC7A95 /* PBXTargetDependency */,
-                     );
-                     name = ALL_BUILD;
-                     productName = ALL_BUILD;
-              };
-              1BAB5C1BB0C24FC391BBD6FA /* RUN_TESTS */ = {
-                     isa = PBXAggregateTarget;
-                     buildConfigurationList = 40B10F2D2B1547679A12DF4A /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */;
-                     buildPhases = (
-                            A67DD15051EF4EB8B5D18C48 /* CMake PostBuild Rules */,
-                     );
-                     dependencies = (
-                     );
-                     name = RUN_TESTS;
-                     productName = RUN_TESTS;
-              };
-              DF3F7CF3F5F1489BA73C1B06 /* ZERO_CHECK */ = {
-                     isa = PBXAggregateTarget;
-                     buildConfigurationList = E6E3715A2183421BAA0CD573 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
-                     buildPhases = (
-                            C50F36D07C0644E8A77707CA /* CMake Rules */,
-                     );
-                     dependencies = (
-                     );
-                     name = ZERO_CHECK;
-                     productName = ZERO_CHECK;
-              };
+		1BAB5C1BB0C24FC391BBD6FA /* RUN_TESTS */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 40B10F2D2B1547679A12DF4A /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */;
+			buildPhases = (
+				A67DD15051EF4EB8B5D18C48 /* CMake PostBuild Rules */,
+			);
+			dependencies = (
+			);
+			name = RUN_TESTS;
+			productName = RUN_TESTS;
+		};
+		DF3F7CF3F5F1489BA73C1B06 /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = E6E3715A2183421BAA0CD573 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				C50F36D07C0644E8A77707CA /* CMake Rules */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+		F4744E785DBF4556B5181899 /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 88074CA8EC6A47D2997AF2CC /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				1F6F5EE90C94491ABC712326 /* CMake Rules */,
+			);
+			dependencies = (
+				965AF632312F42E8A0F331D5 /* PBXTargetDependency */,
+				2ED98D571D23473584FD3474 /* PBXTargetDependency */,
+				C40413FDEA1A43DEBACEB9F2 /* PBXTargetDependency */,
+				5ACDE770E1AB4EF2AEBC7A95 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-51A39B4F84B340099DA8A2F6 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 659CEA159D6A470F937A9249 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
-503E869D7F1D44E09684D24E /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp */ = {isa = PBXBuildFile; fileRef = ACBC5E70131E41588B0278A5 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp */; settings = { COMPILER_FLAGS = ""; }; };
-859504BC9A46400C9B449BAF /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = D42E968BB47B49DFA8293D4B /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
-3D63C66E705242C8A1964E8E /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/main.cpp */ = {isa = PBXBuildFile; fileRef = 733368F5DB1C47D1AC7A8946 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/main.cpp */; settings = { COMPILER_FLAGS = ""; }; };
-55560EBA166C44A7B3C53106 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 91A61D6F365D4DCCA21DA3FA /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
-E1AA13D2E5D844C89BB5F8AB /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp */ = {isa = PBXBuildFile; fileRef = BD918029D649447893F982B5 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+		3D63C66E705242C8A1964E8E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 733368F5DB1C47D1AC7A8946 /* main.cpp */; settings = {COMPILER_FLAGS = ""; }; };
+		503E869D7F1D44E09684D24E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ACBC5E70131E41588B0278A5 /* main.cpp */; settings = {COMPILER_FLAGS = ""; }; };
+		E1AA13D2E5D844C89BB5F8AB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD918029D649447893F982B5 /* main.cpp */; settings = {COMPILER_FLAGS = ""; }; };
 /* End PBXBuildFile section */
 
-/* Begin PBXBuildStyle section */
-              47AAF140EEFA4052B94B6E3A /*  */ = {
-                     isa = PBXBuildStyle;
-              };
-              85CA0FDF56CD47BD882D4242 /* Debug */ = {
-                     isa = PBXBuildStyle;
-                     buildSettings = {
-                            COPY_PHASE_STRIP = NO;
-                     };
-                     name = Debug;
-              };
-/* End PBXBuildStyle section */
-
 /* Begin PBXContainerItemProxy section */
-              D5A7E899A35946FEB1AD7698 /* PBXContainerItemProxy */ = {
-                     isa = PBXContainerItemProxy;
-                     containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
-                     proxyType = 1;
-                     remoteGlobalIDString = AD3667381E4D46C49D22E188;
-                     remoteInfo = 1_3;
-              };
-              455C9ED234B94F019D342F51 /* PBXContainerItemProxy */ = {
-                     isa = PBXContainerItemProxy;
-                     containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
-                     proxyType = 1;
-                     remoteGlobalIDString = DF3F7CF3F5F1489BA73C1B06;
-                     remoteInfo = ZERO_CHECK;
-              };
-              D12D17DC1850497F9EB17C8A /* PBXContainerItemProxy */ = {
-                     isa = PBXContainerItemProxy;
-                     containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
-                     proxyType = 1;
-                     remoteGlobalIDString = 9B4D5068F8EE4EA987B8F106;
-                     remoteInfo = 1_1;
-              };
-              2C10592C268D425ABDE18492 /* PBXContainerItemProxy */ = {
-                     isa = PBXContainerItemProxy;
-                     containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
-                     proxyType = 1;
-                     remoteGlobalIDString = 4AA957A5CB1A45FCB14FBDC5;
-                     remoteInfo = 1_2;
-              };
+		2C10592C268D425ABDE18492 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4AA957A5CB1A45FCB14FBDC5;
+			remoteInfo = 1_2;
+		};
+		455C9ED234B94F019D342F51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DF3F7CF3F5F1489BA73C1B06;
+			remoteInfo = ZERO_CHECK;
+		};
+		D12D17DC1850497F9EB17C8A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9B4D5068F8EE4EA987B8F106;
+			remoteInfo = 1_1;
+		};
+		D5A7E899A35946FEB1AD7698 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD0A33D18280490BB8C9C821 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD3667381E4D46C49D22E188;
+			remoteInfo = 1_3;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-288CD22C1083413692130BFF /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = "sourcecode.text"; fileEncoding = 4; name = "CMakeLists.txt"; path = "CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
-659CEA159D6A470F937A9249 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = "sourcecode.text"; fileEncoding = 4; name = "CMakeLists.txt"; path = "sources/1_1/CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
-ACBC5E70131E41588B0278A5 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "main.cpp"; path = "sources/1_1/main.cpp"; sourceTree = SOURCE_ROOT; };
-B9665AEA78C943BBB8B124A3 /* 1_1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = 1_1; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
-D42E968BB47B49DFA8293D4B /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = "sourcecode.text"; fileEncoding = 4; name = "CMakeLists.txt"; path = "sources/1_2/CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
-733368F5DB1C47D1AC7A8946 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/main.cpp */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "main.cpp"; path = "sources/1_2/main.cpp"; sourceTree = SOURCE_ROOT; };
-504A62D44B104209939F74D0 /* 1_2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = 1_2; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
-91A61D6F365D4DCCA21DA3FA /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = "sourcecode.text"; fileEncoding = 4; name = "CMakeLists.txt"; path = "sources/1_3/CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
-BD918029D649447893F982B5 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp */ = {isa = PBXFileReference; explicitFileType = "sourcecode.cpp.cpp"; fileEncoding = 4; name = "main.cpp"; path = "sources/1_3/main.cpp"; sourceTree = SOURCE_ROOT; };
-3E79AE6BE8AD4FDA84813435 /* 1_3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = 1_3; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
+		288CD22C1083413692130BFF /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		3E79AE6BE8AD4FDA84813435 /* 1_3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = 1_3; sourceTree = BUILT_PRODUCTS_DIR; };
+		504A62D44B104209939F74D0 /* 1_2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = 1_2; sourceTree = BUILT_PRODUCTS_DIR; };
+		659CEA159D6A470F937A9249 /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; name = CMakeLists.txt; path = sources/1_1/CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		733368F5DB1C47D1AC7A8946 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = main.cpp; path = sources/1_2/main.cpp; sourceTree = SOURCE_ROOT; };
+		91A61D6F365D4DCCA21DA3FA /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; name = CMakeLists.txt; path = sources/1_3/CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		ACBC5E70131E41588B0278A5 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = main.cpp; path = sources/1_1/main.cpp; sourceTree = SOURCE_ROOT; };
+		B9665AEA78C943BBB8B124A3 /* 1_1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = 1_1; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD918029D649447893F982B5 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = main.cpp; path = sources/1_3/main.cpp; sourceTree = SOURCE_ROOT; };
+		D42E968BB47B49DFA8293D4B /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; name = CMakeLists.txt; path = sources/1_2/CMakeLists.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-              1621F0C2EBD94205804B77BF  = {
-                     isa = PBXGroup;
-                     children = (
-                            9E4B96F7A0034FE9BDAE33AC /* Sources */,
-                            407307DFBCCC43ACA8BE2DCA /* Resources */,
-                            FB4F1EBB62F24DD39F560DF5 /* Products */,
-                     );
-                     sourceTree = "<group>";
-              };
-              9E4B96F7A0034FE9BDAE33AC /* Sources */ = {
-                     isa = PBXGroup;
-                     children = (
-                            418349203FD249B4B2C92087 /* ALL_BUILD */,
-                            0D5918EBD89F4044B824B500 /* ZERO_CHECK */,
-                            E2D8F71D34904A62A7939263 /* binaries */,
-                     );
-                     name = Sources;
-                     sourceTree = "<group>";
-              };
-              407307DFBCCC43ACA8BE2DCA /* Resources */ = {
-                     isa = PBXGroup;
-                     children = (
-                     );
-                     name = Resources;
-                     sourceTree = "<group>";
-              };
-              418349203FD249B4B2C92087 /* ALL_BUILD */ = {
-                     isa = PBXGroup;
-                     children = (
-                            68770A6C33974F2BB9A04164 /* CMake Rules */,
-                            288CD22C1083413692130BFF /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/CMakeLists.txt */,
-                     );
-                     name = ALL_BUILD;
-                     sourceTree = "<group>";
-              };
-              68770A6C33974F2BB9A04164 /* CMake Rules */ = {
-                     isa = PBXGroup;
-                     children = (
-                     );
-                     name = "CMake Rules";
-                     sourceTree = "<group>";
-              };
-              0D5918EBD89F4044B824B500 /* ZERO_CHECK */ = {
-                     isa = PBXGroup;
-                     children = (
-                            59D6C3061843407A9BAEA3BF /* CMake Rules */,
-                            288CD22C1083413692130BFF /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/CMakeLists.txt */,
-                     );
-                     name = ZERO_CHECK;
-                     sourceTree = "<group>";
-              };
-              59D6C3061843407A9BAEA3BF /* CMake Rules */ = {
-                     isa = PBXGroup;
-                     children = (
-                     );
-                     name = "CMake Rules";
-                     sourceTree = "<group>";
-              };
-              E2D8F71D34904A62A7939263 /* binaries */ = {
-                     isa = PBXGroup;
-                     children = (
-                            2CE66CE1F10E484991B3505F /* 1_1 */,
-                            AD8AF2C1AFBF4C7DA58491CC /* 1_2 */,
-                            A93389EBC4D946EF9BFB6EAA /* 1_3 */,
-                     );
-                     name = binaries;
-                     sourceTree = "<group>";
-              };
-              2CE66CE1F10E484991B3505F /* 1_1 */ = {
-                     isa = PBXGroup;
-                     children = (
-                            CBDCC6BFCDD942B6A6D70B0F /* Source Files */,
-                            659CEA159D6A470F937A9249 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/CMakeLists.txt */,
-                     );
-                     name = 1_1;
-                     sourceTree = "<group>";
-              };
-              CBDCC6BFCDD942B6A6D70B0F /* Source Files */ = {
-                     isa = PBXGroup;
-                     children = (
-                            ACBC5E70131E41588B0278A5 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp */,
-                     );
-                     name = "Source Files";
-                     sourceTree = "<group>";
-              };
-              AD8AF2C1AFBF4C7DA58491CC /* 1_2 */ = {
-                     isa = PBXGroup;
-                     children = (
-                            078AB8F521B9404FA94DAD1B /* Source Files */,
-                            D42E968BB47B49DFA8293D4B /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/CMakeLists.txt */,
-                     );
-                     name = 1_2;
-                     sourceTree = "<group>";
-              };
-              078AB8F521B9404FA94DAD1B /* Source Files */ = {
-                     isa = PBXGroup;
-                     children = (
-                            733368F5DB1C47D1AC7A8946 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/main.cpp */,
-                     );
-                     name = "Source Files";
-                     sourceTree = "<group>";
-              };
-              A93389EBC4D946EF9BFB6EAA /* 1_3 */ = {
-                     isa = PBXGroup;
-                     children = (
-                            96955F8DECDD4F1F8E03074F /* Source Files */,
-                            91A61D6F365D4DCCA21DA3FA /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/CMakeLists.txt */,
-                     );
-                     name = 1_3;
-                     sourceTree = "<group>";
-              };
-              96955F8DECDD4F1F8E03074F /* Source Files */ = {
-                     isa = PBXGroup;
-                     children = (
-                            BD918029D649447893F982B5 /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp */,
-                     );
-                     name = "Source Files";
-                     sourceTree = "<group>";
-              };
-              FB4F1EBB62F24DD39F560DF5 /* Products */ = {
-                     isa = PBXGroup;
-                     children = (
-                            B9665AEA78C943BBB8B124A3 /* 1_1 */,
-                            504A62D44B104209939F74D0 /* 1_2 */,
-                            3E79AE6BE8AD4FDA84813435 /* 1_3 */,
-                     );
-                     name = Products;
-                     sourceTree = "<group>";
-              };
+		078AB8F521B9404FA94DAD1B /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				733368F5DB1C47D1AC7A8946 /* main.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		0D5918EBD89F4044B824B500 /* ZERO_CHECK */ = {
+			isa = PBXGroup;
+			children = (
+				59D6C3061843407A9BAEA3BF /* CMake Rules */,
+				288CD22C1083413692130BFF /* CMakeLists.txt */,
+			);
+			name = ZERO_CHECK;
+			sourceTree = "<group>";
+		};
+		1621F0C2EBD94205804B77BF = {
+			isa = PBXGroup;
+			children = (
+				9E4B96F7A0034FE9BDAE33AC /* Sources */,
+				407307DFBCCC43ACA8BE2DCA /* Resources */,
+				FB4F1EBB62F24DD39F560DF5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2CE66CE1F10E484991B3505F /* 1_1 */ = {
+			isa = PBXGroup;
+			children = (
+				CBDCC6BFCDD942B6A6D70B0F /* Source Files */,
+				659CEA159D6A470F937A9249 /* CMakeLists.txt */,
+			);
+			name = 1_1;
+			sourceTree = "<group>";
+		};
+		407307DFBCCC43ACA8BE2DCA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		418349203FD249B4B2C92087 /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				68770A6C33974F2BB9A04164 /* CMake Rules */,
+				288CD22C1083413692130BFF /* CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+		59D6C3061843407A9BAEA3BF /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		68770A6C33974F2BB9A04164 /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		96955F8DECDD4F1F8E03074F /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				BD918029D649447893F982B5 /* main.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		9E4B96F7A0034FE9BDAE33AC /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				418349203FD249B4B2C92087 /* ALL_BUILD */,
+				0D5918EBD89F4044B824B500 /* ZERO_CHECK */,
+				E2D8F71D34904A62A7939263 /* binaries */,
+			);
+			name = Sources;
+			sourceTree = "<group>";
+		};
+		A93389EBC4D946EF9BFB6EAA /* 1_3 */ = {
+			isa = PBXGroup;
+			children = (
+				96955F8DECDD4F1F8E03074F /* Source Files */,
+				91A61D6F365D4DCCA21DA3FA /* CMakeLists.txt */,
+			);
+			name = 1_3;
+			sourceTree = "<group>";
+		};
+		AD8AF2C1AFBF4C7DA58491CC /* 1_2 */ = {
+			isa = PBXGroup;
+			children = (
+				078AB8F521B9404FA94DAD1B /* Source Files */,
+				D42E968BB47B49DFA8293D4B /* CMakeLists.txt */,
+			);
+			name = 1_2;
+			sourceTree = "<group>";
+		};
+		CBDCC6BFCDD942B6A6D70B0F /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACBC5E70131E41588B0278A5 /* main.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		E2D8F71D34904A62A7939263 /* binaries */ = {
+			isa = PBXGroup;
+			children = (
+				2CE66CE1F10E484991B3505F /* 1_1 */,
+				AD8AF2C1AFBF4C7DA58491CC /* 1_2 */,
+				A93389EBC4D946EF9BFB6EAA /* 1_3 */,
+			);
+			name = binaries;
+			sourceTree = "<group>";
+		};
+		FB4F1EBB62F24DD39F560DF5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B9665AEA78C943BBB8B124A3 /* 1_1 */,
+				504A62D44B104209939F74D0 /* 1_2 */,
+				3E79AE6BE8AD4FDA84813435 /* 1_3 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-              9B4D5068F8EE4EA987B8F106 /* 1_1 */ = {
-                     isa = PBXNativeTarget;
-                     buildConfigurationList = 7D0C05BBE2AA49368D170373 /* Build configuration list for PBXNativeTarget "1_1" */;
-                     buildPhases = (
-                            F3124650C9904DD297F02CBA /* Sources */,
-                     );
-                     buildRules = (
-                     );
-                     dependencies = (
-                     );
-                     name = 1_1;
-                     productName = 1_1;
-                     productReference = B9665AEA78C943BBB8B124A3 /* 1_1 */;
-                     productType = "com.apple.product-type.tool";
-              };
-              4AA957A5CB1A45FCB14FBDC5 /* 1_2 */ = {
-                     isa = PBXNativeTarget;
-                     buildConfigurationList = F95BDC1BF2CB4CBD9B7DBDB4 /* Build configuration list for PBXNativeTarget "1_2" */;
-                     buildPhases = (
-                            4CBBB7F70E3746369A725C2B /* Sources */,
-                     );
-                     buildRules = (
-                     );
-                     dependencies = (
-                     );
-                     name = 1_2;
-                     productName = 1_2;
-                     productReference = 504A62D44B104209939F74D0 /* 1_2 */;
-                     productType = "com.apple.product-type.tool";
-              };
-              AD3667381E4D46C49D22E188 /* 1_3 */ = {
-                     isa = PBXNativeTarget;
-                     buildConfigurationList = 755FF2E7D1724332800E8473 /* Build configuration list for PBXNativeTarget "1_3" */;
-                     buildPhases = (
-                            20B4CF3DFFA94D08A5989239 /* Sources */,
-                     );
-                     buildRules = (
-                     );
-                     dependencies = (
-                     );
-                     name = 1_3;
-                     productName = 1_3;
-                     productReference = 3E79AE6BE8AD4FDA84813435 /* 1_3 */;
-                     productType = "com.apple.product-type.tool";
-              };
+		4AA957A5CB1A45FCB14FBDC5 /* 1_2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F95BDC1BF2CB4CBD9B7DBDB4 /* Build configuration list for PBXNativeTarget "1_2" */;
+			buildPhases = (
+				4CBBB7F70E3746369A725C2B /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 1_2;
+			productName = 1_2;
+			productReference = 504A62D44B104209939F74D0 /* 1_2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		9B4D5068F8EE4EA987B8F106 /* 1_1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7D0C05BBE2AA49368D170373 /* Build configuration list for PBXNativeTarget "1_1" */;
+			buildPhases = (
+				F3124650C9904DD297F02CBA /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 1_1;
+			productName = 1_1;
+			productReference = B9665AEA78C943BBB8B124A3 /* 1_1 */;
+			productType = "com.apple.product-type.tool";
+		};
+		AD3667381E4D46C49D22E188 /* 1_3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 755FF2E7D1724332800E8473 /* Build configuration list for PBXNativeTarget "1_3" */;
+			buildPhases = (
+				20B4CF3DFFA94D08A5989239 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 1_3;
+			productName = 1_3;
+			productReference = 3E79AE6BE8AD4FDA84813435 /* 1_3 */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-              CD0A33D18280490BB8C9C821 /* Project object */ = {
-                     isa = PBXProject;
-                     attributes = {
-                            BuildIndependentTargetsInParallel = YES;
-                     };
-                     buildConfigurationList = F7748446D70B4E4FB29B68F0 /* Build configuration list for PBXProject  "task1" */;
-                     buildSettings = {
-                     };
-                     buildStyles = (
-                            85CA0FDF56CD47BD882D4242 /* Debug */,
-                     );
-                     compatibilityVersion = "Xcode 3.2";
-                     hasScannedForEncodings = 0;
-                     mainGroup = 1621F0C2EBD94205804B77BF;
-                     projectDirPath = "..";
-                     projectRoot = "";
-                     targets = (
-                            F4744E785DBF4556B5181899 /* ALL_BUILD */,
-                            1BAB5C1BB0C24FC391BBD6FA /* RUN_TESTS */,
-                            DF3F7CF3F5F1489BA73C1B06 /* ZERO_CHECK */,
-                            9B4D5068F8EE4EA987B8F106 /* 1_1 */,
-                            4AA957A5CB1A45FCB14FBDC5 /* 1_2 */,
-                            AD3667381E4D46C49D22E188 /* 1_3 */,
-                     );
-              };
+		CD0A33D18280490BB8C9C821 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 0500;
+			};
+			buildConfigurationList = F7748446D70B4E4FB29B68F0 /* Build configuration list for PBXProject "task1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1621F0C2EBD94205804B77BF;
+			projectDirPath = ..;
+			projectRoot = "";
+			targets = (
+				F4744E785DBF4556B5181899 /* ALL_BUILD */,
+				1BAB5C1BB0C24FC391BBD6FA /* RUN_TESTS */,
+				DF3F7CF3F5F1489BA73C1B06 /* ZERO_CHECK */,
+				9B4D5068F8EE4EA987B8F106 /* 1_1 */,
+				4AA957A5CB1A45FCB14FBDC5 /* 1_2 */,
+				AD3667381E4D46C49D22E188 /* 1_3 */,
+			);
+		};
 /* End PBXProject section */
 
 /* Begin PBXShellScriptBuildPhase section */
-              0A2A7E6478434BCD85DD8508 /*  */ = {
-                     isa = PBXShellScriptBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                     );
-                     inputPaths = (
-                     );
-                     outputPaths = (
-                     );
-                     runOnlyForDeploymentPostprocessing = 0;
-                     shellPath = /bin/sh;
-                     shellScript = "# shell script goes here
-exit 0";
-                     showEnvVarsInLog = 0;
-              };
-              1F6F5EE90C94491ABC712326 /* CMake Rules */ = {
-                     isa = PBXShellScriptBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                     );
-                     name = "CMake Rules";
-                     runOnlyForDeploymentPostprocessing = 0;
-                     shellPath = /bin/sh;
-                     shellScript = "make -C /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
-                     showEnvVarsInLog = 0;
-              };
-              9F7FA753821C486CA42E9073 /*  */ = {
-                     isa = PBXShellScriptBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                     );
-                     inputPaths = (
-                     );
-                     outputPaths = (
-                     );
-                     runOnlyForDeploymentPostprocessing = 0;
-                     shellPath = /bin/sh;
-                     shellScript = "# shell script goes here
-exit 0";
-                     showEnvVarsInLog = 0;
-              };
-              A67DD15051EF4EB8B5D18C48 /* CMake PostBuild Rules */ = {
-                     isa = PBXShellScriptBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                     );
-                     name = "CMake PostBuild Rules";
-                     runOnlyForDeploymentPostprocessing = 0;
-                     shellPath = /bin/sh;
-                     shellScript = "make -C /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/RUN_TESTS_postBuildPhase.make$CONFIGURATION all";
-                     showEnvVarsInLog = 0;
-              };
-              BAEAA880D7E3435587A559DF /*  */ = {
-                     isa = PBXShellScriptBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                     );
-                     inputPaths = (
-                     );
-                     outputPaths = (
-                     );
-                     runOnlyForDeploymentPostprocessing = 0;
-                     shellPath = /bin/sh;
-                     shellScript = "# shell script goes here
-exit 0";
-                     showEnvVarsInLog = 0;
-              };
-              C50F36D07C0644E8A77707CA /* CMake Rules */ = {
-                     isa = PBXShellScriptBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                     );
-                     name = "CMake Rules";
-                     runOnlyForDeploymentPostprocessing = 0;
-                     shellPath = /bin/sh;
-                     shellScript = "make -C /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION all";
-                     showEnvVarsInLog = 0;
-              };
+		1F6F5EE90C94491ABC712326 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
+			showEnvVarsInLog = 0;
+		};
+		A67DD15051EF4EB8B5D18C48 /* CMake PostBuild Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake PostBuild Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/RUN_TESTS_postBuildPhase.make$CONFIGURATION all";
+			showEnvVarsInLog = 0;
+		};
+		C50F36D07C0644E8A77707CA /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION all";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-              F3124650C9904DD297F02CBA /* Sources */ = {
-                     isa = PBXSourcesBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                            503E869D7F1D44E09684D24E /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_1/main.cpp */,
-                     );
-                     runOnlyForDeploymentPostprocessing = 0;
-              };
-              4CBBB7F70E3746369A725C2B /* Sources */ = {
-                     isa = PBXSourcesBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                            3D63C66E705242C8A1964E8E /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_2/main.cpp */,
-                     );
-                     runOnlyForDeploymentPostprocessing = 0;
-              };
-              20B4CF3DFFA94D08A5989239 /* Sources */ = {
-                     isa = PBXSourcesBuildPhase;
-                     buildActionMask = 2147483647;
-                     files = (
-                            E1AA13D2E5D844C89BB5F8AB /* /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp */,
-                     );
-                     runOnlyForDeploymentPostprocessing = 0;
-              };
+		20B4CF3DFFA94D08A5989239 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1AA13D2E5D844C89BB5F8AB /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4CBBB7F70E3746369A725C2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D63C66E705242C8A1964E8E /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3124650C9904DD297F02CBA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				503E869D7F1D44E09684D24E /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-              965AF632312F42E8A0F331D5 /* PBXTargetDependency */ = {
-                     isa = PBXTargetDependency;
-                     target = AD3667381E4D46C49D22E188 /* 1_3 */;
-                     targetProxy = D5A7E899A35946FEB1AD7698 /* PBXContainerItemProxy */;
-              };
-              2ED98D571D23473584FD3474 /* PBXTargetDependency */ = {
-                     isa = PBXTargetDependency;
-                     target = DF3F7CF3F5F1489BA73C1B06 /* ZERO_CHECK */;
-                     targetProxy = 455C9ED234B94F019D342F51 /* PBXContainerItemProxy */;
-              };
-              C40413FDEA1A43DEBACEB9F2 /* PBXTargetDependency */ = {
-                     isa = PBXTargetDependency;
-                     target = 9B4D5068F8EE4EA987B8F106 /* 1_1 */;
-                     targetProxy = D12D17DC1850497F9EB17C8A /* PBXContainerItemProxy */;
-              };
-              5ACDE770E1AB4EF2AEBC7A95 /* PBXTargetDependency */ = {
-                     isa = PBXTargetDependency;
-                     target = 4AA957A5CB1A45FCB14FBDC5 /* 1_2 */;
-                     targetProxy = 2C10592C268D425ABDE18492 /* PBXContainerItemProxy */;
-              };
+		2ED98D571D23473584FD3474 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DF3F7CF3F5F1489BA73C1B06 /* ZERO_CHECK */;
+			targetProxy = 455C9ED234B94F019D342F51 /* PBXContainerItemProxy */;
+		};
+		5ACDE770E1AB4EF2AEBC7A95 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4AA957A5CB1A45FCB14FBDC5 /* 1_2 */;
+			targetProxy = 2C10592C268D425ABDE18492 /* PBXContainerItemProxy */;
+		};
+		965AF632312F42E8A0F331D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD3667381E4D46C49D22E188 /* 1_3 */;
+			targetProxy = D5A7E899A35946FEB1AD7698 /* PBXContainerItemProxy */;
+		};
+		C40413FDEA1A43DEBACEB9F2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9B4D5068F8EE4EA987B8F106 /* 1_1 */;
+			targetProxy = D12D17DC1850497F9EB17C8A /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-              2619620BB004499D99A94D7B /* Debug */ = {
-                     isa = XCBuildConfiguration;
-                     buildSettings = {
-                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
-                            ONLY_ACTIVE_ARCH = YES;
-                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk";
-                            SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/build;
-                     };
-                     name = Debug;
-              };
-              A8472178BE6B4ACF8F7E1C5B /* Debug */ = {
-                     isa = XCBuildConfiguration;
-                     buildSettings = {
-                            COMBINE_HIDPI_IMAGES = YES;
-                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
-                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-                            GCC_OPTIMIZATION_LEVEL = 0;
-                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _LINUX, "'_XOPEN_SOURCE=600'", "'BOOST_FILESYSTEM_VERSION=2'", );
-                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-                            INSTALL_PATH = "";
-                            OTHER_CFLAGS = "   -pthread  -O0 -g -Wall";
-                            OTHER_LDFLAGS = " ";
-                            OTHER_REZFLAGS = "";
-                            PRODUCT_NAME = ALL_BUILD;
-                            SECTORDER_FLAGS = "";
-                            SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj;
-                            USE_HEADERMAP = NO;
-                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
-                     };
-                     name = Debug;
-              };
-              A4FC1A46EDE1410896E8C83A /* Debug */ = {
-                     isa = XCBuildConfiguration;
-                     buildSettings = {
-                            COMBINE_HIDPI_IMAGES = YES;
-                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
-                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-                            GCC_OPTIMIZATION_LEVEL = 0;
-                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
-                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-                            INSTALL_PATH = "";
-                            OTHER_CFLAGS = "   -pthread  -O0 -g -Wall";
-                            OTHER_LDFLAGS = " ";
-                            OTHER_REZFLAGS = "";
-                            PRODUCT_NAME = RUN_TESTS;
-                            SECTORDER_FLAGS = "";
-                            SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj;
-                            USE_HEADERMAP = NO;
-                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
-                     };
-                     name = Debug;
-              };
-              1C0C250E4ED840EFA003A8C3 /* Debug */ = {
-                     isa = XCBuildConfiguration;
-                     buildSettings = {
-                            COMBINE_HIDPI_IMAGES = YES;
-                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
-                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-                            GCC_OPTIMIZATION_LEVEL = 0;
-                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _LINUX, "'_XOPEN_SOURCE=600'", "'BOOST_FILESYSTEM_VERSION=2'", );
-                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-                            INSTALL_PATH = "";
-                            OTHER_CFLAGS = "   -pthread  -O0 -g -Wall";
-                            OTHER_LDFLAGS = " ";
-                            OTHER_REZFLAGS = "";
-                            PRODUCT_NAME = ZERO_CHECK;
-                            SECTORDER_FLAGS = "";
-                            SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj;
-                            USE_HEADERMAP = NO;
-                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
-                     };
-                     name = Debug;
-              };
-              FF53EF574E264FBAAB37160B /* Debug */ = {
-                     isa = XCBuildConfiguration;
-                     buildSettings = {
-                            COMBINE_HIDPI_IMAGES = YES;
-                            CONFIGURATION_BUILD_DIR = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug;
-                            EXECUTABLE_PREFIX = "";
-                            EXECUTABLE_SUFFIX = "";
-                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-                            GCC_OPTIMIZATION_LEVEL = 0;
-                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _LINUX, "'_XOPEN_SOURCE=600'", "'BOOST_FILESYSTEM_VERSION=2'", _SCL_SECURE_NO_WARNINGS, "'SOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\"'", "'BINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\"'", );
-                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-                            INSTALL_PATH = "";
-                            LIBRARY_SEARCH_PATHS = "";
-                            OTHER_CFLAGS = "     -pthread  -O0 -g -Wall";
-                            OTHER_CPLUSPLUSFLAGS = "     -pthread  -O0 -g -Wall";
-                            OTHER_LDFLAGS = "  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  ";
-                            OTHER_REZFLAGS = "";
-                            PRODUCT_NAME = 1_1;
-                            SECTORDER_FLAGS = "";
-                            SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1;
-                            USE_HEADERMAP = NO;
-                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
-                     };
-                     name = Debug;
-              };
-              3E3FFC556B7040CE85B178F3 /* Debug */ = {
-                     isa = XCBuildConfiguration;
-                     buildSettings = {
-                            COMBINE_HIDPI_IMAGES = YES;
-                            CONFIGURATION_BUILD_DIR = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug;
-                            EXECUTABLE_PREFIX = "";
-                            EXECUTABLE_SUFFIX = "";
-                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-                            GCC_OPTIMIZATION_LEVEL = 0;
-                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _LINUX, "'_XOPEN_SOURCE=600'", "'BOOST_FILESYSTEM_VERSION=2'", _SCL_SECURE_NO_WARNINGS, "'SOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\"'", "'BINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\"'", );
-                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-                            INSTALL_PATH = "";
-                            LIBRARY_SEARCH_PATHS = "";
-                            OTHER_CFLAGS = "     -pthread  -O0 -g -Wall";
-                            OTHER_CPLUSPLUSFLAGS = "     -pthread  -O0 -g -Wall";
-                            OTHER_LDFLAGS = "  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  ";
-                            OTHER_REZFLAGS = "";
-                            PRODUCT_NAME = 1_2;
-                            SECTORDER_FLAGS = "";
-                            SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_2;
-                            USE_HEADERMAP = NO;
-                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
-                     };
-                     name = Debug;
-              };
-              EBE3A86C73AD47298D7225DC /* Debug */ = {
-                     isa = XCBuildConfiguration;
-                     buildSettings = {
-                            COMBINE_HIDPI_IMAGES = YES;
-                            CONFIGURATION_BUILD_DIR = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug;
-                            EXECUTABLE_PREFIX = "";
-                            EXECUTABLE_SUFFIX = "";
-                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-                            GCC_OPTIMIZATION_LEVEL = 0;
-                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", _LINUX, "'_XOPEN_SOURCE=600'", "'BOOST_FILESYSTEM_VERSION=2'", _SCL_SECURE_NO_WARNINGS, "'SOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\"'", "'BINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\"'", );
-                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-                            INSTALL_PATH = "";
-                            LIBRARY_SEARCH_PATHS = "";
-                            OTHER_CFLAGS = "     -pthread  -O0 -g -Wall";
-                            OTHER_CPLUSPLUSFLAGS = "     -pthread  -O0 -g -Wall";
-                            OTHER_LDFLAGS = "  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  ";
-                            OTHER_REZFLAGS = "";
-                            PRODUCT_NAME = 1_3;
-                            SECTORDER_FLAGS = "";
-                            SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3;
-                            USE_HEADERMAP = NO;
-                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
-                     };
-                     name = Debug;
-              };
+		1C0C250E4ED840EFA003A8C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					_LINUX,
+					"'_XOPEN_SOURCE=600'",
+					"'BOOST_FILESYSTEM_VERSION=2'",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_CFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
+		2619620BB004499D99A94D7B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk;
+				SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/build;
+			};
+			name = Debug;
+		};
+		3E3FFC556B7040CE85B178F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					_LINUX,
+					"'_XOPEN_SOURCE=600'",
+					"'BOOST_FILESYSTEM_VERSION=2'",
+					_SCL_SECURE_NO_WARNINGS,
+					"'SOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\"'",
+					"'BINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\"'",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_LDFLAGS = (
+					"-Wl,-search_paths_first",
+					"-Wl,-headerpad_max_install_names",
+				);
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = 1_2;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_2;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
+		A4FC1A46EDE1410896E8C83A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = "'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'";
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_CFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = RUN_TESTS;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
+		A8472178BE6B4ACF8F7E1C5B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					_LINUX,
+					"'_XOPEN_SOURCE=600'",
+					"'BOOST_FILESYSTEM_VERSION=2'",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_CFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
+		EBE3A86C73AD47298D7225DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					_LINUX,
+					"'_XOPEN_SOURCE=600'",
+					"'BOOST_FILESYSTEM_VERSION=2'",
+					_SCL_SECURE_NO_WARNINGS,
+					"'SOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\"'",
+					"'BINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\"'",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_LDFLAGS = (
+					"-Wl,-search_paths_first",
+					"-Wl,-headerpad_max_install_names",
+				);
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = 1_3;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
+		FF53EF574E264FBAAB37160B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					_LINUX,
+					"'_XOPEN_SOURCE=600'",
+					"'BOOST_FILESYSTEM_VERSION=2'",
+					_SCL_SECURE_NO_WARNINGS,
+					"'SOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\"'",
+					"'BINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\"'",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pthread",
+					"-O0",
+					"-g",
+					"-Wall",
+				);
+				OTHER_LDFLAGS = (
+					"-Wl,-search_paths_first",
+					"-Wl,-headerpad_max_install_names",
+				);
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = 1_1;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-              F7748446D70B4E4FB29B68F0 /* Build configuration list for PBXProject  "task1" */ = {
-                     isa = XCConfigurationList;
-                     buildConfigurations = (
-                            2619620BB004499D99A94D7B /* Debug */,
-                     );
-                     defaultConfigurationIsVisible = 0;
-                     defaultConfigurationName = Debug;
-              };
-              88074CA8EC6A47D2997AF2CC /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
-                     isa = XCConfigurationList;
-                     buildConfigurations = (
-                            A8472178BE6B4ACF8F7E1C5B /* Debug */,
-                     );
-                     defaultConfigurationIsVisible = 0;
-                     defaultConfigurationName = Debug;
-              };
-              40B10F2D2B1547679A12DF4A /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */ = {
-                     isa = XCConfigurationList;
-                     buildConfigurations = (
-                            A4FC1A46EDE1410896E8C83A /* Debug */,
-                     );
-                     defaultConfigurationIsVisible = 0;
-                     defaultConfigurationName = Debug;
-              };
-              E6E3715A2183421BAA0CD573 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
-                     isa = XCConfigurationList;
-                     buildConfigurations = (
-                            1C0C250E4ED840EFA003A8C3 /* Debug */,
-                     );
-                     defaultConfigurationIsVisible = 0;
-                     defaultConfigurationName = Debug;
-              };
-              7D0C05BBE2AA49368D170373 /* Build configuration list for PBXNativeTarget "1_1" */ = {
-                     isa = XCConfigurationList;
-                     buildConfigurations = (
-                            FF53EF574E264FBAAB37160B /* Debug */,
-                     );
-                     defaultConfigurationIsVisible = 0;
-                     defaultConfigurationName = Debug;
-              };
-              F95BDC1BF2CB4CBD9B7DBDB4 /* Build configuration list for PBXNativeTarget "1_2" */ = {
-                     isa = XCConfigurationList;
-                     buildConfigurations = (
-                            3E3FFC556B7040CE85B178F3 /* Debug */,
-                     );
-                     defaultConfigurationIsVisible = 0;
-                     defaultConfigurationName = Debug;
-              };
-              755FF2E7D1724332800E8473 /* Build configuration list for PBXNativeTarget "1_3" */ = {
-                     isa = XCConfigurationList;
-                     buildConfigurations = (
-                            EBE3A86C73AD47298D7225DC /* Debug */,
-                     );
-                     defaultConfigurationIsVisible = 0;
-                     defaultConfigurationName = Debug;
-              };
+		40B10F2D2B1547679A12DF4A /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A4FC1A46EDE1410896E8C83A /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		755FF2E7D1724332800E8473 /* Build configuration list for PBXNativeTarget "1_3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBE3A86C73AD47298D7225DC /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7D0C05BBE2AA49368D170373 /* Build configuration list for PBXNativeTarget "1_1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF53EF574E264FBAAB37160B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		88074CA8EC6A47D2997AF2CC /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8472178BE6B4ACF8F7E1C5B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		E6E3715A2183421BAA0CD573 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1C0C250E4ED840EFA003A8C3 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F7748446D70B4E4FB29B68F0 /* Build configuration list for PBXProject "task1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2619620BB004499D99A94D7B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F95BDC1BF2CB4CBD9B7DBDB4 /* Build configuration list for PBXNativeTarget "1_2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E3FFC556B7040CE85B178F3 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
 /* End XCConfigurationList section */
-       };
-       rootObject = CD0A33D18280490BB8C9C821;
+	};
+	rootObject = CD0A33D18280490BB8C9C821 /* Project object */;
 }

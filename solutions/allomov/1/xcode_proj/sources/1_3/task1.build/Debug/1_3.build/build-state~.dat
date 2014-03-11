@@ -3,7 +3,6 @@ v6
 r1
 cCheck dependencies
 cCompileC xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_3 normal x86_64
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
 c0000000052835B6400000000000000AA
@@ -20,14 +19,179 @@ c00000000527167D800000000000001DB
 t1383163864
 s475
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000527167E9000000000000681C
+t1383163881
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000527167E9000000000006E8B0
+t1383163881
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000527167E90000000000004734
+t1383163881
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000527167E9000000000000FC6C
+t1383163881
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000527167E9000000000000F6A0
+t1383163881
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000527167E90000000000006254
+t1383163881
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000527167E9000000000000E0F8
+t1383163881
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000527167E9000000000000D6DC
+t1383163881
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000527167E90000000000006308
+t1383163881
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000527167E90000000000004050
+t1383163881
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000527167E90000000000008570
+t1383163881
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000527167E90000000000005EA0
+t1383163881
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000527167E90000000000005FAC
+t1383163881
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000527167E90000000000004440
+t1383163881
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000527167E9000000000000AA28
+t1383163881
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000527167E90000000000003E2C
+t1383163881
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000527167E90000000000030A24
+t1383163881
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000527167E90000000000005E54
+t1383163881
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000527167E90000000000006A90
+t1383163881
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000527167E900000000000178AC
+t1383163881
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000527167E9000000000001ADC8
+t1383163881
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000527167E9000000000001028C
+t1383163881
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000527167E90000000000008800
+t1383163881
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000527167E90000000000011090
+t1383163881
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000527167E9000000000000882C
+t1383163881
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000527167E900000000000067AC
+t1383163881
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000527167E90000000000008DEC
+t1383163881
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000527167E90000000000004C08
+t1383163881
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000527167E900000000000023C0
+t1383163881
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000527167E9000000000000439C
+t1383163881
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000527167E90000000000006768
+t1383163881
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000527167E900000000000172F4
+t1383163881
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005271682A0000000000001750
+t1383163946
+s5968
+
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp
-c00000000531EB643000000000000013E
-t1394521667
-s318
+c00000000531EECC00000000000000C44
+t1394535616
+s3140
 
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_3
-t2
-s0
+t1394521859
+s52436
 
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/1_3.LinkFileList
 c00000000531EB7020000000000000087
@@ -35,20 +199,23 @@ t1394521858
 s135
 
 N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o
-t1394521859
-s155028
+t2
+s0
+
+CAnalyzeShallow /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp
+r0
 
 CBuild AST from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies78f1a682eeceb841^93acb382eeceb841^---0#1#1#--18"Check dependencies36"C7979715-D63E-4673-AE0F-67982B0E36D5-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies78624e7d24cfb841^99d64e7d24cfb841^---0#1#1#--18"Check dependencies36"85967E7B-7A83-4DF1-B38F-17B7E1B1397E-
 
 CCompileC xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s416214658.705907
-e416214659.440169
-r1
+s416228477.307973
+e416228477.766253
+r0
 xCompileC
 xxcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o
 x/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp
@@ -57,8 +224,57 @@ xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp171"CompileC xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o sources/1_3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler37e3b482eeceb841^594c7483eeceb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp0000000000000000^2698"CompileC xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o sources/1_3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_LINUX -D_XOPEN_SOURCE=600 -DBOOST_FILESYSTEM_VERSION=2 -D_SCL_SECURE_NO_WARNINGS -DSOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\" -DBINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/DerivedSources/x86_64 -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -pthread -O0 -g -Wall -MMD -MT dependencies -MF /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.dia -c /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp -o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o36"5D67466B-7284-4D43-A729-515BA2F582E9-
-b4EDAF146-6C18-4002-8D0B-3E57639A9BE2
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:39:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/streambuf:558:31: error: base class 'std::__1::ios_base' has private copy constructor
+o_LIBCPP_EXTERN_TEMPLATE(class basic_ios<char>)
+o                              ^
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:37:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__config:462:54: note: expanded from macro '_LIBCPP_EXTERN_TEMPLATE'
+o#define _LIBCPP_EXTERN_TEMPLATE(...) extern template __VA_ARGS__;
+o                                                     ^
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:305:5: note: declared private here
+o    ios_base(const ios_base&); // = delete;
+o    ^
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:130:28: note: implicit default copy constructor for 'std::__1::basic_ios<char>' first required here
+o    class _LIBCPP_TYPE_VIS basic_ifstream;
+o                           ^
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:40:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/istream:1706:31: error: no matching constructor for initialization of 'basic_ios<char, std::__1::char_traits<char> >'
+o_LIBCPP_EXTERN_TEMPLATE(class basic_istream<char>)
+o                              ^~~~~~~~~~~~~
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:37:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__config:462:54: note: expanded from macro '_LIBCPP_EXTERN_TEMPLATE'
+o#define _LIBCPP_EXTERN_TEMPLATE(...) extern template __VA_ARGS__;
+o                                                     ^
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:591:14: note: candidate constructor not viable: no known conversion from 'const basic_ios<char, std::__1::char_traits<char> >' to 'basic_streambuf<char_type, traits_type> *' for 1st argument
+o    explicit basic_ios(basic_streambuf<char_type,traits_type>* __sb);
+o             ^
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:622:5: note: candidate constructor not viable: requires 0 arguments, but 1 was provided
+o    basic_ios() {// purposefully does no initialization
+o    ^
+oIn file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:130:28: note: implicit default copy constructor for 'std::__1::basic_istream<char>' first required here
+o    class _LIBCPP_TYPE_VIS basic_ifstream;
+o                           ^
+o/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:106:22: note: implicit default copy constructor for 'std::__1::basic_ifstream<char, std::__1::char_traits<char> >' first required here
+o    map.readFromFile(input_file);
+o                     ^
+o2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp171"CompileC xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o sources/1_3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4eef4e7d24cfb841^1729c47d24cfb841^-5000"In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:39:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/streambuf:558:31: error: base class 'std::__1::ios_base' has private copy constructor_LIBCPP_EXTERN_TEMPLATE(class basic_ios<char>)                              ^In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:37:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__config:462:54: note: expanded from macro '_LIBCPP_EXTERN_TEMPLATE'#define _LIBCPP_EXTERN_TEMPLATE(...) extern template __VA_ARGS__;                                                     ^In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:305:5: note: declared private here    ios_base(const ios_base&); // = delete;    ^In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:130:28: note: implicit default copy constructor for 'std::__1::basic_ios<char>' first required here    class _LIBCPP_TYPE_VIS basic_ifstream;                           ^In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:40:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/istream:1706:31: error: no matching constructor for initialization of 'basic_ios<char, std::__1::char_traits<char> >'_LIBCPP_EXTERN_TEMPLATE(class basic_istream<char>)                              ^~~~~~~~~~~~~In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:37:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__config:462:54: note: expanded from macro '_LIBCPP_EXTERN_TEMPLATE'#define _LIBCPP_EXTERN_TEMPLATE(...) extern template __VA_ARGS__;                                                     ^In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:591:14: note: candidate constructor not viable: no known conversion from 'const basic_ios<char, std::__1::char_traits<char> >' to 'basic_streambuf<char_type, traits_type> *' for 1st argument    explicit basic_ios(basic_streambuf<char_type,traits_type>* __sb);             ^/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:622:5: note: candidate constructor not viable: requires 0 arguments, but 1 was provided    basic_ios() {// purposefully does no initialization    ^In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:130:28: note: implicit default copy constructor for 'std::__1::basic_istream<char>' first required here    class _LIBCPP_TYPE_VIS basic_ifstream;                           ^/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:106:22: note: implicit default copy constructor for 'std::__1::basic_ifstream<char, std::__1::char_traits<char> >' first required here    map.readFromFile(input_file);                     ^2 errors generated.2(36%IDEClangDiagnosticActivityLogMessage2@60"Base class 'std::__1::ios_base' has private copy constructor-416228477#18446744073709551615#0#5(2@100"In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@82"file:///Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2@135"In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:39:-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@109"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iostream0000000000000000^38#9#38#9#775#0#21"Apple LLVM 5.0 Notice--2@45"Expanded from macro '_LIBCPP_EXTERN_TEMPLATE'-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@109"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/__config0000000000000000^461#53#461#53#11845#0#21"Apple LLVM 5.0 Notice--2@21"Declared private here-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/ios0000000000000000^304#4#304#4#8773#0#14"Semantic Issue--2@85"Implicit default copy constructor for 'std::__1::basic_ios<char>' first required here-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iosfwd0000000000000000^129#27#129#27#5046#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/streambuf0000000000000000^557#30#557#30#15560#0#14"Semantic Issue--2@93"No matching constructor for initialization of 'basic_ios<char, std::__1::char_traits<char> >'-416228477#18446744073709551615#0#7(2@100"In file included from /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp:1:-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2@135"In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:40:-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@109"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iostream0000000000000000^39#9#39#9#796#0#21"Apple LLVM 5.0 Notice--2@45"Expanded from macro '_LIBCPP_EXTERN_TEMPLATE'-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@109"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/__config0000000000000000^461#53#461#53#11845#0#21"Apple LLVM 5.0 Notice--2@176"Candidate constructor not viable: no known conversion from 'const basic_ios<char, std::__1::char_traits<char> >' to 'basic_streambuf<char_type, traits_type> *' for 1st argument-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/ios0000000000000000^590#13#590#13#15261#0#14"Semantic Issue--2@74"Candidate constructor not viable: requires 0 arguments, but 1 was provided-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/ios0000000000000000^621#4#621#4#16249#0#14"Semantic Issue--2@89"Implicit default copy constructor for 'std::__1::basic_istream<char>' first required here-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iosfwd0000000000000000^129#27#129#27#5046#0#14"Semantic Issue--2@120"Implicit default copy constructor for 'std::__1::basic_ifstream<char, std::__1::char_traits<char> >' first required here-416228477#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp0000000000000000^105#21#105#21#2270#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@108"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/istream0000000000000000^1705#30#1705#30#49388#0#14"Semantic Issue1(3@108"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/istream0000000000000000^1705#30#1705#43#49388#0#-0#0#1#-19%DVTDocumentLocation4@82"file:///Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp0000000000000000^2698"CompileC xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o sources/1_3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -D_LINUX -D_XOPEN_SOURCE=600 -DBOOST_FILESYSTEM_VERSION=2 -D_SCL_SECURE_NO_WARNINGS -DSOURCE_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1\" -DBINARY_DIR=\"/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug\" -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/DerivedSources/x86_64 -I/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug -pthread -O0 -g -Wall -MMD -MT dependencies -MF /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.dia -c /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/sources/1_3/main.cpp -o /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/task1.build/Debug/1_3.build/Objects-normal/x86_64/main.o36"CE87D69B-562F-4280-BB00-AE77E2D28356-
+bA9AD4D5B-FAFE-40E4-98E1-24BD858CCC0D
 
 CLd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/bin_32/Debug/Debug/1_3 normal x86_64
 s416214659.440883
