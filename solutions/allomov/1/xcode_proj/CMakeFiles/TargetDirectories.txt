@@ -1,5 +1,0 @@
-/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_1/CMakeFiles/1_1.dir
-/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_2/CMakeFiles/1_2.dir
-/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/sources/1_3/CMakeFiles/1_3.dir
-/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeFiles/ALL_BUILD.dir
-/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeFiles/ZERO_CHECK.dir

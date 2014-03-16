@@ -1,29 +1,0 @@
-TALL_BUILD
-v6
-r1
-cCheck dependencies
-cPhaseScriptExecution CMake\ Rules /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ALL_BUILD.build/Script-1F6F5EE90C94491ABC712326.sh
-
-N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ALL_BUILD.build/Script-1F6F5EE90C94491ABC712326.sh
-c00000000531EEE0200000000000000DC
-t1394535938
-s220
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9ab25f2a2acfb841^b9c65f2a2acfb841^---0#1#1#--18"Check dependencies36"61214921-CF14-40B8-9A9E-A8BB23C5FC2F-
-
-CPhaseScriptExecution CMake\ Rules /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ALL_BUILD.build/Script-1F6F5EE90C94491ABC712326.sh
-s416229930.374323
-e416229930.390502
-r1
-xPhaseScriptExecution
-xCMake Rules
-x/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ALL_BUILD.build/Script-1F6F5EE90C94491ABC712326.sh
-oecho ""
-o
-oecho Build\ all\ projects
-oBuild all projects
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'113"PhaseScriptExecution CMake\ Rules xcode_proj/task1.build/Debug/ALL_BUILD.build/Script-1F6F5EE90C94491ABC712326.sh8717602a2acfb841^a9f8632a2acfb841^-54"echo ""echo Build\ all\ projectsBuild all projects3(21%IDEActivityLogMessage2@8"echo ""-416229930#0#8#-0#-----2@26"echo Build\ all\ projects-416229930#9#26#-0#-----2@19"Build all projects-416229930#35#19#-0#-----0#0#1#--326"PhaseScriptExecution CMake\ Rules xcode_proj/task1.build/Debug/ALL_BUILD.build/Script-1F6F5EE90C94491ABC712326.sh    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    /bin/sh -c /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ALL_BUILD.build/Script-1F6F5EE90C94491ABC712326.sh36"E0D32B53-B41F-430A-AE81-D800D9DD74BE-
-b2461E6EF-636F-45E7-BF7A-5CE47F5C0004
-

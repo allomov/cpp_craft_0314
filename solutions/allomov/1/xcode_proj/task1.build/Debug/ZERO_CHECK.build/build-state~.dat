@@ -1,29 +1,0 @@
-TZERO_CHECK
-v6
-r1
-cCheck dependencies
-cPhaseScriptExecution CMake\ Rules /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ZERO_CHECK.build/Script-C50F36D07C0644E8A77707CA.sh
-
-N/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ZERO_CHECK.build/Script-C50F36D07C0644E8A77707CA.sh
-c00000000531EECFD00000000000000DD
-t1394535677
-s221
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2d5c4e7d24cfb841^41d34e7d24cfb841^---0#1#1#--18"Check dependencies36"AF9D0395-C77E-4E7E-BE70-1A5FC370F1B2-
-
-CPhaseScriptExecution CMake\ Rules /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ZERO_CHECK.build/Script-C50F36D07C0644E8A77707CA.sh
-s416228477.308101
-e416228477.354621
-r1
-xPhaseScriptExecution
-xCMake Rules
-x/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ZERO_CHECK.build/Script-C50F36D07C0644E8A77707CA.sh
-oecho ""
-o
-omake -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/ReRunCMake.make
-omake[1]: `/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeFiles/cmake.check_cache' is up to date.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'114"PhaseScriptExecution CMake\ Rules xcode_proj/task1.build/Debug/ZERO_CHECK.build/Script-C50F36D07C0644E8A77707CA.shc0414f7d24cfb841^7ec95a7d24cfb841^-233"echo ""make -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/ReRunCMake.makemake[1]: `/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeFiles/cmake.check_cache' is up to date.3(21%IDEActivityLogMessage2@8"echo ""-416228477#0#8#-0#-----2@103"make -f /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeScripts/ReRunCMake.make-416228477#9#103#-0#-----2@121"make[1]: `/Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/CMakeFiles/cmake.check_cache' is up to date.-416228477#112#121#-0#-----0#0#1#--328"PhaseScriptExecution CMake\ Rules xcode_proj/task1.build/Debug/ZERO_CHECK.build/Script-C50F36D07C0644E8A77707CA.sh    cd /Users/allomov/work/cpp_craft_0314/solutions/allomov/1    /bin/sh -c /Users/allomov/work/cpp_craft_0314/solutions/allomov/1/xcode_proj/task1.build/Debug/ZERO_CHECK.build/Script-C50F36D07C0644E8A77707CA.sh36"CF370168-6608-4C9D-AD7F-18FFF57A33FC-
-b0D68BC5D-DDBD-4821-9E2D-27CCC11AFE8F
-
