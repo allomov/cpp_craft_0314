@@ -8,7 +8,7 @@
 
 struct Point {
   int x, y;
-  Point(unsigned int x_, unsigned int y_): x(x_), y(y_) {}
+  Point(const unsigned int x_, const unsigned int y_): x(x_), y(y_) {}
 };
 
 template <typename T>
@@ -19,17 +19,17 @@ class BoundsMatrix
 
 public:
 
-  void setDimensions (unsigned int dimx, unsigned int dimy) {
+  void setDimensions (const unsigned int dimx, const unsigned int dimy) {
     dimx_ = dimx; dimy_ = dimy;
     inner_.resize (dimx_ * dimy_);
   }
 
-  T& operator()(unsigned int x, unsigned int y) {
+  T& operator()(const unsigned int x, const unsigned int y) {
 //    if (x >= dimx_ || y>= dimy_) throw 0; // ouch
     return inner_[dimx_ * y + x];
   }
 
-  void set(unsigned int x, unsigned int y, T value) {
+  void set(const unsigned int x, const unsigned int y, const T value) {
     inner_[dimx_ * y + x] = value;
   }
 
@@ -48,7 +48,7 @@ private:
   BoundsMatrix<short> matrix;
 
 public: 
-  void readFromFile(std::ifstream& input_file) {
+  void readFromFile(const std::ifstream& input_file) {
     std::vector<std::string> lines;
     std::string line;
     while(!input_file.eof()) { 
@@ -66,7 +66,7 @@ public:
 
   }
   
-  bool isLand(int x, int y) {
+  bool isLand(const int x, const int y) {
     if (x < 0 || y < 0 || x >= dimx() || y >= dimy()) return false;
     return matrix(x, y) != 0;
   }
