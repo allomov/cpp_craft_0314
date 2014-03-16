@@ -21,3 +21,7 @@ _start_msvc.bat
 
 #LibreOffice tmp file
 .~*
+
+#vim tmp files
+*~
+*.swp
